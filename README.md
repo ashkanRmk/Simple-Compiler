@@ -1,4 +1,4 @@
-# simple_compiler
+# Simple Recursive Decsent Parser
 #### The academic two-phases of a Compiler with these features:
 
 A Program to make `NFA` from `Regular Expression` and make it to `DFA` then simplify it!
